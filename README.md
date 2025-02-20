@@ -1,11 +1,5 @@
-<h1 align="center">Hello, Word! I'm Darya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A student trying to become a programmer</h3>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://i.pinimg.com/736x/15/34/88/153488ba983467042f02a0e7d530e2a0.jpg" alt="moti" width="300" style="margin-right: 20px;">
-    <div>
-        <p>Ваш текст здесь. Вы можете добавить любое содержимое, которое хотите разместить справа от изображения.</p>
-    </div>
-</div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dex1fy)](https://github.com/dex1fy/github-readme-activity-graph)
+<h1 align="center">Hello, Word! I'm Darya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> A student trying to become a programmer</h3>
+☀️I am currently working with: databases, developing desktop and web applications
+💫I am currently studying: C#, Kotlin
