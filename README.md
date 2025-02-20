@@ -5,12 +5,24 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A student trying to become a programmer</h3>
 
+<table>
+  <tr>
+    <td valign="top">
+      <h2>Skills</h2>
+      ☀️ I am currently working with:<br><br>
+      databases<br>
+      developing desktop and web applications<br>
+    </td>
+    <td valign="top">
+      <h2>Languages studied</h2>
+      💫 I am currently studying:<br><br>
+      C#<br>
+      Kotlin<br>
+    </td>
+  </tr>
+</table>
 
-| Skills                                   | Languages studied               |
-|------------------------------------------|---------------------------------|
-| ☀️ I am currently working with:         |💫 I am currently studying      |
-| - databases                              | - C#                            |
-| - developing desktop and web applications| - Kotlin                        |
+
 
 
 
