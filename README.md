@@ -5,12 +5,25 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A student trying to become a programmer</h3>
 
-## Skills                                                        ## Languages studied
-☀️I am currently working with:                                  💫I am currently studying
-- databases                                                      -С#
-- developing desktop and web applications                        -Kotlin                                     
-                                                               
-
-
+<table>
+  <tr>
+    <td valign="top">
+      ## Skills
+      ☀️ I am currently working with:
+      <ul>
+        <li>databases</li>
+        <li>developing desktop and web applications</li>
+      </ul>
+    </td>
+    <td valign="top">
+      ## Languages studied
+      💫 I am currently studying:
+      <ul>
+        <li>C#</li>
+        <li>Kotlin</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&layout=compact)](https://github.com/dex1fy/github-readme-stats)
