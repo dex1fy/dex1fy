@@ -1,7 +1,6 @@
 <h1 align="center">Hello, Word! I'm Darya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+student+trying+to+become+a)](https://git.io/typing-svg)
-
+<h3 align="center">A student trying to become a programmer</h3>
 
 ## Skills
 ☀️I am currently working with:
@@ -11,3 +10,5 @@
 💫I am currently studying
 - C#
 - Kotlin
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&layout=compact)](https://github.com/dex1fy/github-readme-stats)
