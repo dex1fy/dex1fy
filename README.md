@@ -27,9 +27,6 @@
   </tr>
 </table>
 
-## Contact
-[Email](mailto:idarzamasova@yandex.ru)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&layout=compact)](https://github.com/dex1fy/github-readme-stats)
