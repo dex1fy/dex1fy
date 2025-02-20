@@ -11,8 +11,8 @@
 - developing desktop and web applications                                                            
                                                                
  ## Languages studied
-💫I am currently studying
- -С#
- -Kotlin
+💫I am currently studying:
+ - С#
+ - Kotlin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&layout=compact)](https://github.com/dex1fy/github-readme-stats)
