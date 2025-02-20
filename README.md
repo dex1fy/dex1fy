@@ -28,7 +28,7 @@
 </table>
 
 ## Contact
-[Email](mailto:your_email@example.com)
+[Email](mailto:idarzamasova@yandex.ru)
 
 
 
