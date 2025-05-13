@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">Hey, I'm Dasha ^_^ </a></h1>
 <h3 align="center">A dumb student who dreams of becoming a project manager
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=dark)</h3>
 
 --I'm ripening
