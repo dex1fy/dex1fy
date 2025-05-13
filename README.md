@@ -6,5 +6,5 @@
 
 --I'm ripening
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex1fy&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex1fy&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=dark)
