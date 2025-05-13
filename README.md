@@ -5,5 +5,5 @@
 <h3 align="center">A dumb student who dreams of becoming a project manager</h3>
 
 --I'm ripening
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&layout=compact)](https://github.com/dex1fy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy)](https://github.com/dex1fy/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=solarized_dark)
