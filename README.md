@@ -7,5 +7,5 @@
 --I'm ripening
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy)](https://github.com/dex1fy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex1fy&theme=solarized_dark)](https://github.com/dex1fy/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=solarized_dark)
