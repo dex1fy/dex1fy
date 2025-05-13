@@ -10,4 +10,4 @@
 --I'm ripening
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex1fy&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dex1fy&theme=pink)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dex1fy&theme=dark)
