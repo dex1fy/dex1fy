@@ -4,6 +4,8 @@
 <h1 align="center">Hey, I'm Dasha ^_^ </a></h1>
 <h3 align="center">A dumb student who dreams of becoming a ?????
 
+[![dex1fy](https://activity-graph.herokuapp.com/graph?username=dex1fy&theme=nightowl)](https://github.com/dex1fy/github-readme-activity-graph)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex1fy&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dex1fy&theme=dark) </h3>
