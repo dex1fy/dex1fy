@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dex1fy/dex1fy/blob/main/17976ea7ea0610181fb250f2930a875a.jpg?raw=true" alt="moti">
+  <img src="https://m.media-amazon.com/images/M/MV5BZGI3ZTgwNTctZGU0My00MWE5LThiNzktZTU2OTJkZTc0NzAwXkEyXkFqcGc@._V1_.jpg" alt="moti">
 </div>
 <h1 align="center">Hey, I'm Dasha ^_^ </a></h1>
 <h3 align="center">A dumb student who dreams of becoming a ?????
