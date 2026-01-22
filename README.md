@@ -4,7 +4,8 @@
 
 <p align="left">
 <br>
-**just... me ₍^. .^₎Ⳋ**
+  
+**just... me** ₍^. .^₎Ⳋ
 <br>☁️student 
 <br>☁️humanitarian programmer
 <br>☁️I dream of becoming a project manager
