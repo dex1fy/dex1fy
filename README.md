@@ -1,6 +1,6 @@
 <h3>‧︵‿₊୨୧₊‿︵‧ ˚₊⊹ Hey, I'm Dasha ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧</h3>
 
-<img align="right" alt="pic" src="https://images.steamusercontent.com/ugc/9784256266795990704/24DA5AA2AD6BF8819AAB0258542516DBFE7E57F5/?imw=569&imh=388&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" height="300" style="border-radius: 1px;">
+<img align="right" alt="pic" src="https://images.steamusercontent.com/ugc/9784256266795990704/24DA5AA2AD6BF8819AAB0258542516DBFE7E57F5/?imw=569&imh=388&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" height="280" style="border-radius: 1px;">
 
 <p align="left">
 
