@@ -1,16 +1,21 @@
-<div align="center">
-  <img width="98%" src="https://m.media-amazon.com/images/M/MV5BZGI3ZTgwNTctZGU0My00MWE5LThiNzktZTU2OTJkZTc0NzAwXkEyXkFqcGc@._V1_.jpg" alt="moti">
-</div>
-<h1 align="center"> ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚₊⊹ Hey, I'm Dasha ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚₊⊹</a></h1>
-<h3 align="center">A dumb student who dreams of becoming a ?????
+<h3>⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚₊⊹ Hey, I'm Dasha ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚₊⊹ </h3>
+
+<img align="right" alt="pic" src="https://images.steamusercontent.com/ugc/9784256266795990704/24DA5AA2AD6BF8819AAB0258542516DBFE7E57F5/?imw=569&imh=388&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" height="270" style="border-radius: 1px;">
+
+<p align="left">
+
+**just... me ₍^. .^₎Ⳋ**
+<br>☁️student 
+<br>☁️humanitarian programmer
+<br>☁️I dream of becoming a project manager
+
+🌤️**this is my jam**
+<br>♡´- design in **Figma**
+<br>♡´- WEB
+<br>♡´- project management
+<br>♡´- communication and planning
+
+🌩️**my "necessary evils":** C# ❁  Kotlin ❁ C ❁  SQL 
 
 
-<br></br>
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex1fy&theme=midnight_purple" />
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex1fy&theme=midnight_purple" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dex1fy&theme=midnight_purple" /> 
-</p>
-</h3>
 
