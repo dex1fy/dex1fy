@@ -10,10 +10,10 @@
 <br>☁️I dream of becoming a project manager
 
 🌤️**this is my jam**
-<br>♡´- design in **Figma**
-<br>♡´- WEB
-<br>♡´- project management
-<br>♡´- communication and planning
+<br>₊˚⊹♡ design in **Figma**
+<br>₊˚⊹♡ WEB
+<br>₊˚⊹♡ project management
+<br>₊˚⊹♡ communication and planning
 
 🌩️**my "necessary evils":** C# ✧ Kotlin ✧ C ✧ SQL
 
