@@ -4,10 +4,10 @@
 
 <p align="left">
 
-**just... me** ₍^. .^₎Ⳋ
-<br>☁️student 
-<br>☁️humanitarian programmer
-<br>☁️I dream of becoming a project manager
+☁️**just... me** ₍^. .^₎Ⳋ
+<br>୨ৎ student 
+<br>୨ৎ humanitarian programmer
+<br>୨ৎ I dream of becoming a project manager
 
 🌤️**this is my jam**
 <br>₊˚⊹♡ design in **Figma**
