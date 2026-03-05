@@ -15,6 +15,6 @@
 <br>₊˚⊹♡ WEB
 <br>₊˚⊹♡ communication and planning
 
-🌩️**my "necessary evils":** C# ✧ Kotlin ✧ C  SQL
+🌩️**my "necessary evils":** C# ✧ Kotlin ✧ C 
 
 ![](https://komarev.com/ghpvc/?username=dex1fy&color=ff69b4)
